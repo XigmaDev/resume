@@ -142,10 +142,39 @@ function Resume() {
               </h2>
               <div className="mb-6">
                 <h3 className="text-xl font-semibold text-gray-800 mb-2">
-                  Freelance MQL 4/5 Developer
+                Freelancer MQL4 / MQL5 Developer 
                 </h3>
                 <p className="text-md text-gray-600 mb-3">
-                  Remote | Jan 2018 – Present
+                  Remote | Jan 2020 – Present
+                </p>
+                <ul className="list-disc list-inside text-lg text-gray-700 leading-relaxed">
+                  <li>
+                    Developed and deployed over 100 custom indicators and EAs
+                    for clients worldwide, optimizing them for high-frequency
+                    trading and market analysis.
+                  </li>
+                  <li>
+                    Conducted comprehensive backtesting and forward-testing of
+                    trading systems to ensure robustness and reliability in live
+                    trading environments.
+                  </li>
+                  <li>
+                    Provided consulting services on trading strategy
+                    development, helping clients achieve their financial goals
+                    through automated trading solutions.
+                  </li>
+                  <li>
+                    Integrated trading strategies with external data sources and
+                    APIs to enhance algorithmic performance.
+                  </li>
+                </ul>
+              </div>
+              <div className="mb-6">
+                <h3 className="text-xl font-semibold text-gray-800 mb-2">
+                Solo Trading in Forex Market 
+                </h3>
+                <p className="text-md text-gray-600 mb-3">
+                  Remote | Jan 2020 – Present
                 </p>
                 <ul className="list-disc list-inside text-lg text-gray-700 leading-relaxed">
                   <li>
@@ -171,10 +200,10 @@ function Resume() {
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-gray-800 mb-2">
-                  Senior MQL Developer
+                  Solo Trading in CryptoCurrency 
                 </h3>
                 <p className="text-md text-gray-600 mb-3">
-                  ABC Trading Solutions | Tehran, Iran | Jan 2016 – Dec 2017
+                Remote | Jan 2018 – Dec 2020
                 </p>
                 <ul className="list-disc list-inside text-lg text-gray-700 leading-relaxed">
                   <li>
